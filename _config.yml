@@ -98,11 +98,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "대한민국이 낳은 **괴물**"
   location         : "대한민국 경기도 수원시"
-  email            : 
+  email            : "wonhong1996@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "wonhong1996@naver.com"
+     # url: "wonhong1996@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
