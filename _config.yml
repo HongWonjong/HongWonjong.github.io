@@ -20,7 +20,7 @@ title                    : "Hard work, Haaard work!"
 title_separator          : "-"
 subtitle                 : "블록체인 붐은 온다..."
 name                     : "Hong wonjong"
-description              : "전공은 개나 주라 그래. 우리는 프로그래밍으로 간다."
+description              : "전공은 도지코인한테 주라 그래. 우리는 프로그래밍으로 간다."
 url                      : "https://HongWonjong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "대한민국이 낳은 **괴물**"
   location         : "대한민국 경기도 수원시"
-  email            : "wonhong1996@naver.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
