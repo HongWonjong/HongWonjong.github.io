@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Hard work, Haaard work!"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "블록체인 붐은 온다..."
 name                     : "Hong wonjong"
 description              : "전공은 개나 주라 그래. 우리는 프로그래밍으로 간다."
 url                      : "https://HongWonjong.github.io"
