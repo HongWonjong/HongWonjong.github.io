@@ -100,9 +100,9 @@ author:
   location         : "대한민국 경기도 수원시"
   email            : "wonhong1996@naver.com"
   links:
-    - label: "Email"
+    - label: "category"
       icon: "fas fa-fw fa-envelope-square"
-     # url: "wonhong1996@naver.com"
+      url: /categories/
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
