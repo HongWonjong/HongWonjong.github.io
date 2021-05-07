@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "전공은 도지코인한테 주라 그래. 우리는 프로그래밍으로 간다."
 title_separator          : "-"
 subtitle                 : "블로그 뜯어고치는 맛에 사는 사람"
