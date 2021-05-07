@@ -101,7 +101,7 @@ author:
   email            : "wonhong1996@naver.com"
   links:
     - label: "category"
-      icon: "fas fa-fw fa-envelope-square"
+      # icon: "fas fa-fw fa-envelope-square"
       url: /categories/
     - label: "Website"
       icon: "fas fa-fw fa-link"
